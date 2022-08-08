@@ -95,7 +95,7 @@ Window4:Slider({
 })
 
 Window5:Label({
-   Text = "Made by: TRHP .gg/",
+   Text = "Made by: TRHP discord.gg/G3KVvt988s",
    Color = Color3.fromRGB(214, 214, 214)
 })
 
